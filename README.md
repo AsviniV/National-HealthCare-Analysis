@@ -10,10 +10,6 @@ This Power BI dashboard was built to analyze a **healthcare dataset** with the g
 - Help **optimize healthcare costs**
 - Ultimately **improve patient outcomes**
 
-🔗 **[Live Dashboard Link]([https://lnkd.in/daHCsj2N](https://app.powerbi.com/view?r=eyJrIjoiODkzMWE5MjEtNWZlYy00ZTg4LTk3OGQtMGFiMDE4MzE0ZmViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))**
-
----
-
 ## ⚒️ Tools & Technologies Used
 - **Power BI** – For creating interactive dashboards and visual storytelling
 - **DAX** – To create meaningful KPIs and custom measures
